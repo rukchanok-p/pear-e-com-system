@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>E-Commerce System 2.0.1 (Fixed Bug)</h1>
+      <h2>Create the Product Detail page</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
